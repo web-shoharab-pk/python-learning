@@ -1,0 +1,2 @@
+Overwriting the file with w+ mode.
+Appending with a+ mode.

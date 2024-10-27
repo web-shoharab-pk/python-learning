@@ -1,0 +1,16 @@
+# About Me
+
+# I am a Python enthusiast currently on a learning journey
+# to enhance my programming skills. I'm following the
+# "Python Language Full Course (2024)" by Shradha Khapra,
+# which covers a wide range of topics from basic syntax
+# to advanced Python features.
+
+# My goals include:
+# 1. Mastering Python fundamentals
+# 2. Understanding object-oriented programming
+# 3. Practicing file handling and exceptions
+# 4. Exploring advanced Python concepts
+
+# I'm excited about this learning adventure and look forward
+# to applying my new skills in real-world projects!
